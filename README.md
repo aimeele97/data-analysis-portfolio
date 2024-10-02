@@ -33,7 +33,7 @@ This portfolio showcases my skills and how I can contribute to future team.
   
 
 ## Contact information
-- LinkedIn: [@aimeele](www.linkedin.com/in/aimeele97)
+- LinkedIn: [@aimeele](https://www.linkedin.com/in/aimeele97)
 - Email: leaimee62@gmail.com
 
 Thank you for visiting my portfolio!
