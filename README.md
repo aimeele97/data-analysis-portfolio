@@ -20,7 +20,6 @@ This portfolio showcases my skills and how I can contribute to future team.
 
 ## Portfolio Projects
 
-- [Portfolio Projects](https://github.com/aimeele97/data-analysis-portfolio)
   - SQL
     - [Bike store analysis](https://github.com/aimeele97/bike_sale_analysis)
     - [Clothing e-commerce sale analysis](https://github.com/aimeele97/clothing-e-commerce-analysis)
