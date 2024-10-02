@@ -18,8 +18,6 @@ I have a solid understanding of business operations and can effectively multitas
 
 I am eager to leverage my skills in Excel, SQL, Python, and Tableau to provide valuable insights and collaborate with teams for business success.
 
-This portfolio showcases my skills and how I can contribute to future team.
-
 ## Portfolio Projects
 
   - SQL
