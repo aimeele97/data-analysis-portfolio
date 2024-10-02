@@ -5,7 +5,7 @@
 
 Hello, I'm Aimee 👋
 
-Well-equipped‬‭ in‬‭ data‬‭ analysis,‬‭ manipulation‬‭ and‬‭ visualisation‬‭ using‬‭ tools.‬‭ I‬‭ am‬‭ passionate‬‭ about‬‭ leveraging‬ data‬‭ to‬‭ solve‬‭ real-world‬‭ problems‬‭ and‬‭ drive‬‭ informed‬‭ decision-making.‬‭ Committed‬‭ to‬‭ continuous‬‭ learning‬‭ and‭ staying updated with industry trends to deliver impactful insights.‬
+An individual who is well-equipped in data analysis, manipulation, and visualization using various tools. I‬‭ am‬‭ passionate‬‭ about‬‭ leveraging‬ data‬‭ to‬‭ solve‬‭ real-world‬‭ problems‬‭ and‬‭ drive‬‭ informed‬‭ decision-making.‬‭ Committed‬‭ to‬‭ continuous‬‭ learning‬‭ and‭ staying updated with industry trends to deliver impactful insights.‬
 
 __Key Skills:__
 
