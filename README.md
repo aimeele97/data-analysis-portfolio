@@ -1,7 +1,9 @@
 
 # Data Analyst Portfolio
 
-## Hello, I'm Aimee 👋
+## About me
+
+Hello, I'm Aimee 👋
 
 I am currently seeking data analyst positions in Sydney, Australia. With experience in manufacturing, FMCGs, and freight forwarding, I've held roles such as Office Administrator, Financial Specialist, and Freight Forwarding Solutions Specialist.
 
