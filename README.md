@@ -1,7 +1,7 @@
 
 # Data Analyst Portfolio
 
-## Hello, I'm Aimee 👋.
+## Hello, I'm Aimee 👋
 
 I am currently seeking data analyst positions in Sydney, Australia. With experience in manufacturing, FMCGs, and freight forwarding, I've held roles such as Office Administrator, Financial Specialist, and Freight Forwarding Solutions Specialist.
 
@@ -16,12 +16,10 @@ I have a solid understanding of business operations and can effectively multitas
 
 I am eager to leverage my skills in Excel, SQL, Python, and Tableau to provide valuable insights and collaborate with teams for business success.
 
-[Link to my resume](..)
-
 This portfolio showcases my skills and how I can contribute to future team.
 
-## Table of Contents
-- [About](https://github.com/aimeele97/data-analysis-portfolio/blob/main/README.md)
+## Portfolio Projects
+
 - [Portfolio Projects](https://github.com/aimeele97/data-analysis-portfolio)
   - SQL
     - [Bike store analysis](https://github.com/aimeele97/bike_sale_analysis)
@@ -32,33 +30,6 @@ This portfolio showcases my skills and how I can contribute to future team.
   - Tableau 
     - [go to Tableau..](https://public.tableau.com/app/profile/aimee.le9707/viz/Bikes_stores_revenue/Dashboard1)
   
-- [Contact information](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
-- Technical Skills
-
-- Conclusion
-
-- Portfolio Projects
-
-Below is a brief overview of my portfolio projects, showcasing my skills in using SQL and Python to tackle business challenges. I then visualize the results in Tableau to effectively present the outputs to stakeholders.
-
-### Analyzing business performance of the bicycle store
-**Code:** [`https://github.com/aimeele97/bike_sale_analysis/blob/main/README.md`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
-
-**Goal:** 
-
-**Description:** 
-
-**Skills:** 
-
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
-
-**Observations:** 
-
-###
-
-
-## Certificates
-
 
 ## Contact information
 - LinkedIn: [@aimeele](www.linkedin.com/in/aimeele97)
